@@ -92,7 +92,7 @@ The notebook displays three images side by side:
 | **Canny output** | Refined edge boundaries from the multi-stage algorithm |
 
 
-![Edge detection comparison](detection%20result.png)
+![Edge detection comparison](result.png)
 
 ## Sobel vs. Canny
 
