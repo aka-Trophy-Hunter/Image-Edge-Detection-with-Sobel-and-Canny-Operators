@@ -33,8 +33,8 @@ The implementation uses **OpenCV** for image processing and **Matplotlib** for s
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone (https://github.com/aka-Trophy-Hunter/Image-Edge-Detection-with-Sobel-and-Canny-Operators)
+cd Image-Edge-Detection-with-Sobel-and-Canny-Operators
 ```
 
 ### 2. Install dependencies
